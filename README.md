@@ -14,11 +14,6 @@
 <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Lonzoyoshi&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=Lonzoyoshi&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
-<br/>
-
-<br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Lonzoyoshi&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lonzoyoshi&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>

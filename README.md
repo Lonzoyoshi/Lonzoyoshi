@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![Github stats](https://github-readme-stats.vercel.app/api?username=Lonzoyoshi&show_icons=true&include_all_commits=true)](https://github.com/Lonzoyoshi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lonzoyoshi&layout=compact)](https://github.com/Lonzoyoshi/github-readme-stats)
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lonzoyoshi&repo=Lonzoyoshi)
+<img align="center" src="https://skillicons.dev/icons?i=c,cpp,python,java,ae&theme=light" />
